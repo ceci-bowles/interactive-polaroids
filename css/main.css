@@ -54,7 +54,7 @@ body .polaroid:hover {
   box-shadow: 1px 4px 6px rgba(0, 0, 0, .6);
 }
 
-.polaroid figcaption {
+.polaroidfigcaption {
   position: absolute;
   bottom: 20px;
   left: 84px;
